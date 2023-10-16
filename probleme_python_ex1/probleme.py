@@ -1,3 +1,4 @@
+#Grigorascenco OLEG IF ANUL II
 import math
 
 #1.Scrieți un program care să afișeze suma numerelor de la 1 la 100 .
